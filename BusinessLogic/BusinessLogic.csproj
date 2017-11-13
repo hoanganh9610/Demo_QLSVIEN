@@ -40,7 +40,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="XL_CHUONGTRINH.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XL_KETQUA.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XL_KHOA.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XL_KHOAHOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="XL_LOP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XL_MONHOC.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="XL_SINHVIEN.cs">

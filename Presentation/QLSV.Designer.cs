@@ -405,6 +405,7 @@
             // 
             // pHinh
             // 
+            this.pHinh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pHinh.Location = new System.Drawing.Point(830, 90);
             this.pHinh.Name = "pHinh";
             this.pHinh.Size = new System.Drawing.Size(151, 150);
