@@ -1,0 +1,8 @@
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ADMIN\documents\visual studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Demo_QLSVIEN\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
