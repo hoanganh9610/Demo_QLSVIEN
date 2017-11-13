@@ -151,7 +151,7 @@ namespace Presentation
             {
                 string fileName = openFileDialog1.SafeFileName;
                 string pathFile = path + "/" + fileName;
-                if(!File.Exists(pathFile));
+                if(!File.Exists(pathFile))
                 File.Copy(openFileDialog1.FileName, pathFile);
                 pHinh.ImageLocation= pathFile;
             }
