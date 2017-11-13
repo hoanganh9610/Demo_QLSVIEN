@@ -185,10 +185,10 @@
             this.btnTimKiem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTimKiem.Font = new System.Drawing.Font("Constantia", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTimKiem.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.btnTimKiem.Location = new System.Drawing.Point(628, 18);
+            this.btnTimKiem.Location = new System.Drawing.Point(646, 17);
             this.btnTimKiem.Margin = new System.Windows.Forms.Padding(4);
             this.btnTimKiem.Name = "btnTimKiem";
-            this.btnTimKiem.Size = new System.Drawing.Size(96, 34);
+            this.btnTimKiem.Size = new System.Drawing.Size(111, 34);
             this.btnTimKiem.TabIndex = 10;
             this.btnTimKiem.Text = "Tìm Kiếm";
             this.btnTimKiem.UseVisualStyleBackColor = false;
@@ -200,7 +200,7 @@
             this.txtTimKiem.Location = new System.Drawing.Point(71, 22);
             this.txtTimKiem.Margin = new System.Windows.Forms.Padding(4);
             this.txtTimKiem.Name = "txtTimKiem";
-            this.txtTimKiem.Size = new System.Drawing.Size(522, 26);
+            this.txtTimKiem.Size = new System.Drawing.Size(533, 26);
             this.txtTimKiem.TabIndex = 9;
             this.txtTimKiem.MouseDown += new System.Windows.Forms.MouseEventHandler(this.txtTimKiem_MouseDown);
             // 
